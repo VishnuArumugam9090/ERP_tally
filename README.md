@@ -1,6 +1,6 @@
 <div align="left">
 
-<h1>Tally To ERPNext Data Migration Tool Vishnu</h1>
+<h1>Tally To ERPNext Data Migration Tool </h1>
 
 This tool helps migration of data from Tally Prime (Masters and transactions) to ERPNext using frappe rest apis.
 - Migrate Masters (Account, Customer, Suppliers, Contact and Address)
